@@ -1,6 +1,6 @@
 # Messenger Clone
 
-Welcome to **ChatApp**! This project is a personal endeavor inspired by Meta's Messenger, aiming to create a seamless messaging experience. I built this app to explore the capabilities of SwiftUI and Firebase while honing my skills in mobile app development.
+Welcome to **MessengerClone**! This project is a personal endeavor inspired by Meta's Messenger, aiming to create a seamless messaging experience. I built this app to explore the capabilities of SwiftUI and Firebase while honing my skills in mobile app development.
 
 ## 🌟 Features
 - **Chat Feature**: Engage in real-time conversations with friends.
