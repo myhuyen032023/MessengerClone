@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		37761F312CF9C75A0010B0CD /* layout.png in Resources */ = {isa = PBXBuildFile; fileRef = 37761F302CF9C75A0010B0CD /* layout.png */; };
 		379337EC2C7D9E74002E6664 /* MessengerCloneApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 379337EB2C7D9E74002E6664 /* MessengerCloneApp.swift */; };
 		379337EE2C7D9E74002E6664 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 379337ED2C7D9E74002E6664 /* ContentView.swift */; };
 		379337F02C7D9E76002E6664 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 379337EF2C7D9E76002E6664 /* Assets.xcassets */; };
@@ -48,6 +49,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		37761F302CF9C75A0010B0CD /* layout.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = layout.png; sourceTree = "<group>"; };
 		379337E82C7D9E74002E6664 /* MessengerClone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MessengerClone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		379337EB2C7D9E74002E6664 /* MessengerCloneApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessengerCloneApp.swift; sourceTree = "<group>"; };
 		379337ED2C7D9E74002E6664 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -119,6 +121,7 @@
 		379337EA2C7D9E74002E6664 /* MessengerClone */ = {
 			isa = PBXGroup;
 			children = (
+				37761F302CF9C75A0010B0CD /* layout.png */,
 				3793381E2C7F1B0C002E6664 /* Components */,
 				379338022C7D9FD6002E6664 /* Services */,
 				379338012C7D9FCF002E6664 /* Models */,
@@ -474,6 +477,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				379337F32C7D9E76002E6664 /* Preview Assets.xcassets in Resources */,
+				37761F312CF9C75A0010B0CD /* layout.png in Resources */,
 				379337F02C7D9E76002E6664 /* Assets.xcassets in Resources */,
 				379338292C8060EE002E6664 /* GoogleService-Info.plist in Resources */,
 			);
